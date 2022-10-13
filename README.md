@@ -10,8 +10,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 ## Tech Stack
 
-**Server:** Node.js, express.js, fs(module)
-**Front End** HTML, , Javascript, CSS
+**Server:** Node.js, express.js, fs(module).
+**Front End** HTML, , Javascript, CSS.
 
 ## Screenshots
 
@@ -30,3 +30,4 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Acknowledgements
 - Modules
+
