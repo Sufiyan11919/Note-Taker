@@ -1,5 +1,5 @@
 # Note-Taker
-- This projects create professional readme for you with the help of inquirer. For using it use commands "npm install" and then "node index.js"
+- This projects is use as a note taker. You can add delete notes. For using it use commands "npm install" and then "node server.js"
 
 ## User Story
 
