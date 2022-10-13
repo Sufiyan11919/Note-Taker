@@ -15,18 +15,18 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/Note-Taker/main/screenshots/Screenshot%20(198).png)
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/Sufiyan11919/Note-Taker/main/screenshots/Screenshot%20(199).png)
 
 
 ![App Screenshot])
 
 ## Github Link
-- https://github.com/Sufiyan11919/Readme_Generator
+- https://github.com/Sufiyan11919/Note-Taker
 
 ## Github Page Link
-- 
+- https://sufiyan11919.github.io/Note-Taker/
 
 ## Acknowledgements
 - Modules
